@@ -1,0 +1,7 @@
+{
+    "editor.wrapOnEscapedLineFeeds": true,
+    "editor.fontVariations": false,
+    "editor.glyphMargin": false,
+    "editor.colorDecorators": false,
+    "editor.indentSize": "tabSize"
+}
